@@ -1,4 +1,6 @@
 [
     { "Name":"Eric Pogue", "Email":"epogue@lewisu.edu", "ContactURL":"https://www.epogue.info" },
-    { "Name":"Eric Pogue", "Email":"epogue@lewisu.edu", "ContactURL":"https://www.epogue.info" }
+    { "Name":"Eric Pogue", "Email":"epogue@lewisu.edu", "ContactURL":"https://www.epogue.info" },
+	{ "Name":"Bryon Czaja", "Email":"bryonczaja@lewisu.edu", "ContactURL":"https://catalog-brc-app.azurewebsites.net/8nd2t4tzbc.json" },
+    { "Name":"Bryon Czaja", "Email":"bryonczaja@lewisu.edu", "ContactURL":"https://catalog-brc-app.azurewebsites.net/6ihcfr0k4k.json" }
 ]
